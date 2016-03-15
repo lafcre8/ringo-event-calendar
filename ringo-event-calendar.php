@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Ringo Event Calendar
-Version: 0.3.0
+Version: 0.4.0
 Description: Ringo is simple event calendar that originally designed for the wedding hall web sites.
 Author: LafCreate
 Author URI: http://www.lafcreate.com

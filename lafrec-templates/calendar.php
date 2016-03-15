@@ -23,7 +23,7 @@
 						<ul>
 						<?php foreach ( $calendar_day->get_schedules() as $schedule ) : ?>
 							<?php global $post; $post = $schedule->event_post; setup_postdata( $post ); ?>
-							<li><?php echo $schedule->start->format( 'Y-m-d H:i' ); ?><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
+							<li><?php echo $schedule->start->format( 'H:i' ); ?><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
 						<?php endforeach;  ?>
 						<?php wp_reset_postdata(); ?>
 						</ul>

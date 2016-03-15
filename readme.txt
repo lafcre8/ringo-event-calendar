@@ -1,10 +1,10 @@
 === Ringo Event Calendar ===
-Contributors: lafcreate, katanyan
+Contributors: lafcreate
 Donate link: http://www.lafcreate.com
 Tags: calendar, event
 Requires at least: 4.1
 Tested up to: 4.4.2
-Stable tag: 0.3.0
+Stable tag: 0.4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,16 +31,16 @@ If you have translated into your language, please let us.
 
 = Limitations and Warnings =
 
-* You cannot register consecutive days schedule. But, our team might implement this feature on future.
+* You cannot register consecutive days schedule. But our team might implement this feature on future.
 
 = Contributors =
 
-Kazuhito Goto, Sayaka Kiyokawa
+Kazuhito Goto, Sayaka Kiyokawa, Koichi Katano
 
 = Development =
 
 Would you like to join the plugin development?
-Follow on [GitHub](https://github.com/)
+Follow on [GitHub](https://github.com/lafcre8/ringo-event-calendar)
 
 == Installation ==
 
@@ -65,6 +65,9 @@ if that happens, you can change calendar HTML and CSS easily.
 
 == Changelog ==
 
+= 0.4.0 =
+* Update Calendar template.
+
 = 0.3.0 =
 * Tested up to 4.4.2
 * Implement some multisite function.
@@ -78,4 +81,4 @@ if that happens, you can change calendar HTML and CSS easily.
 == Upgrade Notice ==
 
 = 0.1.0 =
-This plugin creates table on your database, at activation.
+This plugin creates table on your database at activation.
