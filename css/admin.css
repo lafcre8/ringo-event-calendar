@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+.lafrec-admin-calendars {
+	margin: 0 0 20px 0;
+}
+
+.lafrec-calendar-loader {
+	display: none;
+	padding: 15px 0 0 0;
+	text-align: center;
+}
+
+.lafrec-admin-calendar-caption {
+	margin: 0 0 15px 0;
+	text-align: center;
+	font-weight: bold;
+}
+
+.lafrec-calendar-pager {
+	margin: 0 0 20px 0;
+	text-align: center;
+}
+
+.lafrec-admin-calendar-table {
+	width: 100%;
+	border: 1px solid #e5e5e5;
+	border-collapse: collapse;
+}
+
+.lafrec-admin-calendar-table th {
+	width: 14.2%;
+	border: 1px solid #e5e5e5;
+	padding: 10px;
+	background-color: #f5f5f5;
+	text-align: center;
+}
+
+.lafrec-admin-calendar-table td {
+	border: 1px solid #e5e5e5;
+	padding: 10px;
+	text-align: center;
+}
+
+.lafrec-admin-calendar-header-day {
+	cursor: pointer;
+}
+
+.lafrec-admin-calendar-header-day:hover {
+	background-color: #f7fcfe;
+}
+
+.lafrec-admin-calendar-day {
+	cursor: pointer;
+}
+
+.lafrec-admin-calendar-day:hover {
+	background-color: #f7fcfe;
+}
+
+.lafrec-admin-calendar-day-check {
+	margin: 0 !important;
+}
+
+.lafrec-event-time-table {
+	width: 100%;
+	margin-bottom: 10px;
+	border: 1px solid #e5e5e5;
+	border-collapse: collapse;
+}
+
+.lafrec-event-time-table th {
+	border: 1px solid #e5e5e5;
+	padding: 5px 8px;
+}
+
+.lafrec-event-time-table td {
+	border: 1px solid #e5e5e5;
+	padding: 5px 8px;
+}
+
+.lafrec-event-time-table-head {
+	background-color: #f5f5f5;
+}
+
+.lafrec-event-time-table input {
+	width: 100%;
+}
+
+.lafrec-add-event-time {
+	text-align: right;
+}
+
+.lafrec-remove-event-time {
+	text-align: center;
+}

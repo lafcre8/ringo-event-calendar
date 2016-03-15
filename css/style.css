@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+.lafrec-calendar {
+	background-color: #ffffff;
+}
+
+.lafrec-calendar .lafrec-calendar-table {
+	background-color: #ffffff;
+}
+
+.lafrec-calendar .lafrec-calendar-table .lafrec-calendar-head {
+	width: 14.2%;
+	background-color: #f9f9f9;
+	text-align: right;
+	font-size: inherit;
+}
+
+.lafrec-calendar .lafrec-calendar-table .lafrec-calendar-day-date {
+	margin: 0;
+	margin-bottom: 1em;
+	text-align: right;
+	font-size: inherit;
+}
+
+.lafrec-calendar .lafrec-calendar-table .lafrec-calendar-day {
+	width: 14.2%;
+	background-color: #ffffff;
+	font-size: inherit;
+}
+
+.lafrec-calendar .lafrec-calendar-table .lafrec-calendar-day-today {
+	background-color: #eeeeff;
+}
+
+.lafrec-calendar .lafrec-calendar-table .lafrec-calendar-day-content {
+	min-height: 3em;
+	font-size: inherit;
+}
+
+.lafrec-calendar .lafrec-calendar-table .lafrec-calendar-day-content ul {
+	font-size: inherit;
+}
+
+.lafrec-calendar .lafrec-calendar-table .lafrec-calendar-day-content li {
+	font-size: inherit;
+}

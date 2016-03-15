@@ -1,0 +1,327 @@
+# Copyright (C) 2016 LafCreate
+# This file is distributed under the same license as the Ringo Event Calendar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ringo Event Calendar 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ringo-event-"
+"calendar\n"
+"POT-Creation-Date: 2016-01-19 04:02:23+00:00\n"
+"PO-Revision-Date: 2016-01-11 15:31+0900\n"
+"Last-Translator: LafCreate <info@lafcreate.com>\n"
+"Language-Team: LafCreate <info@lafcreate.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: admin/includes/event.php:57
+msgid "Invalid operation"
+msgstr "不正な操作"
+
+#: admin/includes/meta-boxes.php:22
+msgid "Event schedule"
+msgstr "イベントスケジュール"
+
+#: admin/includes/meta-boxes.php:68
+msgid "Date"
+msgstr "開催日"
+
+#: admin/includes/meta-boxes.php:77
+msgid "Time"
+msgstr "開始・終了時間"
+
+#: admin/includes/meta-boxes.php:84
+msgid "Start"
+msgstr "開始"
+
+#: admin/includes/meta-boxes.php:87
+msgid "End"
+msgstr "終了"
+
+#: admin/includes/meta-boxes.php:106 admin/includes/meta-boxes.php:126
+msgid "Remove"
+msgstr "削除"
+
+#: admin/includes/meta-boxes.php:136
+msgid "Add Time"
+msgstr "時間を追加"
+
+#: includes/class-lafrec-calendar.php:31
+msgid "Sun"
+msgstr "日"
+
+#: includes/class-lafrec-calendar.php:32
+msgid "Mon"
+msgstr "月"
+
+#: includes/class-lafrec-calendar.php:33
+msgid "Tue"
+msgstr "火"
+
+#: includes/class-lafrec-calendar.php:34
+msgid "Wed"
+msgstr "水"
+
+#: includes/class-lafrec-calendar.php:35
+msgid "Thu"
+msgstr "木"
+
+#: includes/class-lafrec-calendar.php:36
+msgid "Fri"
+msgstr "金"
+
+#: includes/class-lafrec-calendar.php:37
+msgid "Sat"
+msgstr "土"
+
+#: includes/post.php:23
+msgid "Add New Event"
+msgstr "新規イベントを追加"
+
+#: includes/post.php:24
+msgid "Edit Event"
+msgstr "編集"
+
+#: includes/post.php:25
+msgid "New Event"
+msgstr "新規イベント"
+
+#: includes/post.php:26
+msgid "View Event"
+msgstr "イベントを表示"
+
+#: includes/post.php:27
+msgid "Search Events"
+msgstr "イベントを検索"
+
+#: includes/post.php:28
+msgid "No Events found."
+msgstr "イベントが見つかりませんでした。"
+
+#: includes/post.php:29
+msgid "No Events found in Trash"
+msgstr "ゴミ箱内にイベントが見つかりませんでした。"
+
+#: includes/post.php:30
+msgid "Parent Evnets:"
+msgstr "親イベント:"
+
+#: includes/post.php:31
+msgid "All Event"
+msgstr "イベント一覧"
+
+#: includes/post.php:32
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: includes/post.php:33
+msgid "Set featured image"
+msgstr "アイキャッチ画像を設定"
+
+#: includes/post.php:34
+msgid "Remove featured image"
+msgstr "アイキャッチ画像を削除"
+
+#: includes/post.php:35
+msgid "Use as featured image"
+msgstr "アイキャッチ画像として使用"
+
+#: includes/post.php:42
+msgid "Event infomation"
+msgstr "イベント情報"
+
+#: includes/schedule.php:233
+msgid "Could not select event schedule into the database"
+msgstr ""
+
+#: includes/schedule.php:301
+msgid "Could not insert event schedule into the database"
+msgstr ""
+
+#: includes/schedule.php:348
+msgid "Could not update event schedule into the database"
+msgstr ""
+
+#: includes/schedule.php:387 includes/schedule.php:456
+msgid "Could not delete event schedule into the database"
+msgstr ""
+
+#: includes/scripts.php:119
+msgid "Failed to get calendar data. Try again in a moment."
+msgstr "カレンダーの取得に失敗しました。お手数ですが再度お試しください。"
+
+#: includes/taxonomy.php:22
+msgid "Search Categories"
+msgstr "カテゴリーを検索"
+
+#: includes/taxonomy.php:24
+msgid "All Categories"
+msgstr "カテゴリー一覧"
+
+#: includes/taxonomy.php:25
+msgid "Parent Category"
+msgstr "親カテゴリー"
+
+#: includes/taxonomy.php:26
+msgid "Parent Category:"
+msgstr "親カテゴリー:"
+
+#: includes/taxonomy.php:27
+msgid "Edit Category"
+msgstr "カテゴリーの編集"
+
+#: includes/taxonomy.php:28
+msgid "View Category"
+msgstr "カテゴリーを表示"
+
+#: includes/taxonomy.php:29
+msgid "Update Category"
+msgstr "カテゴリーを更新"
+
+#: includes/taxonomy.php:30
+msgid "Add New Category"
+msgstr "新規カテゴリーを追加"
+
+#: includes/taxonomy.php:31
+msgid "New Category Name"
+msgstr "新規カテゴリー名"
+
+#: includes/taxonomy.php:35
+msgid "No categories found."
+msgstr "カテゴリーが見つかりませんでした。"
+
+#: includes/taxonomy.php:36
+msgid "No categories"
+msgstr "カテゴリーなし"
+
+#: includes/taxonomy.php:37
+msgid "Categories list navigation"
+msgstr "カテゴリーリストナビゲーション"
+
+#: includes/taxonomy.php:38
+msgid "Categories list"
+msgstr "カテゴリー一覧"
+
+#: includes/widgets/class-lafrec-widget-schedule-list.php:19
+msgid "Event Schedule List"
+msgstr "イベントスケジュール"
+
+#: includes/widgets/class-lafrec-widget-schedule-list.php:21
+msgid "Your site&#8217;s event shcedules."
+msgstr "イベントスケジュール一覧"
+
+#: includes/widgets/class-lafrec-widget-schedule-list.php:64
+msgid "Title:"
+msgstr "タイトル"
+
+#: includes/widgets/class-lafrec-widget-schedule-list.php:69
+msgid "Number of schedules to show:"
+msgstr "表示するスケジュール数"
+
+#. Description of the plugin/theme
+msgid ""
+"Ringo is simple event calendar that originally designed for the wedding hall "
+"web sites."
+msgstr ""
+"Ringo Event Calendar はシンプルなイベントカレンダーです。元々は結婚式場のWeb"
+"サイト向けに開発されました。"
+
+#: admin/includes/template.php:25
+msgctxt "admin calendar year month format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: admin/includes/template.php:35
+msgctxt "admin calendar pager"
+msgid "&lt; Prev"
+msgstr "&lt; 前の月"
+
+#: admin/includes/template.php:37
+msgctxt "admin calendar pager"
+msgid "Next &gt;"
+msgstr "次の月 &gt;"
+
+#: includes/post.php:20
+msgctxt "post type general name"
+msgid "Events"
+msgstr "イベント"
+
+#: includes/post.php:21
+msgctxt "post type singular name"
+msgid "Event"
+msgstr "イベント"
+
+#: includes/post.php:22
+msgctxt "event"
+msgid "Add New"
+msgstr "新規追加"
+
+#: includes/scripts.php:80
+msgctxt "timepicker"
+msgid "am"
+msgstr "午前"
+
+#: includes/scripts.php:81
+msgctxt "timepicker"
+msgid "pm"
+msgstr "午後"
+
+#: includes/scripts.php:82
+msgctxt "timepicker"
+msgid "AM"
+msgstr "午前"
+
+#: includes/scripts.php:83
+msgctxt "timepicker"
+msgid "PM"
+msgstr "午後"
+
+#: includes/scripts.php:84
+msgctxt "timepicker"
+msgid "."
+msgstr "."
+
+#: includes/scripts.php:85
+msgctxt "timepicker"
+msgid "mins"
+msgstr "分"
+
+#: includes/scripts.php:86
+msgctxt "timepicker"
+msgid "hr"
+msgstr "時間"
+
+#: includes/scripts.php:87
+msgctxt "timepicker"
+msgid "hrs"
+msgstr "時間"
+
+#: includes/taxonomy.php:20
+msgctxt "taxonomy general name"
+msgid "Event Category"
+msgstr "カテゴリー"
+
+#: includes/taxonomy.php:21
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "カテゴリー"
+
+#: lafrec-templates/calendar.php:17
+msgctxt "calendar date format"
+msgid "M j"
+msgstr "n/j"
+
+#: lafrec-templates/calendar.php:19
+msgctxt "calendar date format"
+msgid "j"
+msgstr "j"
